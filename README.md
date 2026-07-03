@@ -171,21 +171,12 @@ This project helped me gain practical experience in:
 
 ### Home Page
 
-> Add your homepage screenshot here.
 
-```markdown
 ![Home](screenshots/home.png)
-```
 
 ### Query & Response Example
 
-> Add a screenshot showing a user asking a question.
-
-```markdown
 ![Query & Response](screenshots/query_response.png)
-```
-
-
 
 ---
 
