@@ -177,6 +177,7 @@ This project helped me gain practical experience in:
 ### Query & Response Example
 
 ![Query & Response](screenshots/query_response.png)
+![Query & Response](screenshots/all_tasks.png)
 
 ---
 
