@@ -209,4 +209,3 @@ streamlit run app.py
 **Trailokya Dhotre**
 
 - GitHub: https://github.com/trailokya-world
-- LinkedIn: *(Add your LinkedIn profile)*
